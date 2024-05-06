@@ -1,4 +1,4 @@
-# Flutter samples
+<# Flutter samples
 
 [![Build Status](https://github.com/flutter/samples/workflows/Main%20Branch%20CI/badge.svg)](https://github.com/flutter/samples/actions?workflow=Main%20Branch%20CI)
 
@@ -41,5 +41,5 @@ techniques for one of your own apps, try one of these resources:
 * [StackOverflow](https://stackoverflow.com/questions/tagged/flutter)
 
 If you run into a bug in one of the samples, please file an issue in the
-[`flutter/samples` issue tracker](https://github.com/flutter/samples/issues).
+[`flutter/samples` issue tracker](https://github.com/flutter/samples/issues).>
 
